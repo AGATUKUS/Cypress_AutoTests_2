@@ -1,0 +1,7 @@
+{
+  "title": ".style_1_heading_38_400_pokemon_classic",
+  "trainer_button": ".header_card_trainer",
+  "send_button": "#restoreEmailButton",
+  "close": "#exitRestoreButton > .exitIcon",
+  "footer": ".link"
+}

@@ -1,0 +1,5 @@
+{
+  "magazin_": ".pokemon__title",
+  "change_avatar_button": "[data-qa=\"shop\"]",
+  "random_trainer_card": ":nth-child({index}) > .shop__button"
+}

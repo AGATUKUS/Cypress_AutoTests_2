@@ -1,0 +1,4 @@
+{
+  "export_title": ".single_page_body_content_inner_top > [data-qa=\"battle-history-export\"] > .k_cart_trainer_export_box > .k_cart_trainer_export_box_title",
+  "change_avatar_button": "[data-qa=\"shop\"]"
+}
